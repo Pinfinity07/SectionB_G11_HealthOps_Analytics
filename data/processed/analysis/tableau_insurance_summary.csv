@@ -1,0 +1,3 @@
+Insurance,Patient_Volume,Avg_Treatment_Cost,Median_Treatment_Cost,Recovery_Rate,Mortality_Rate,Under_Treatment_Rate,Insurance_Coverage_Rate,Avg_Doctor_Availability,Avg_Cleanliness_Score,Avg_Operational_Access_Index
+No,16011,24800.53,23270.28,82.74,4.8,12.46,0.0,5.61,2.77,0.5
+Yes,7989,24947.56,23664.63,82.2,5.03,12.77,100.0,5.68,2.79,0.5

@@ -1,0 +1,11 @@
+group_a,group_b,median_a,median_b,median_difference_a_minus_b,p_value,p_value_label
+Asthma,Covid,19329.07,39270.97,-19941.9,0.0,<0.001
+Asthma,Diabetes,19329.07,28222.82,-8893.75,0.0,<0.001
+Asthma,Flu,19329.07,11114.12,8214.95,0.0,<0.001
+Covid,Diabetes,39270.97,28222.82,11048.15,0.0,<0.001
+Covid,Flu,39270.97,11114.12,28156.85,0.0,<0.001
+Covid,Hypertension,39270.97,22528.27,16742.7,0.0,<0.001
+Diabetes,Flu,28222.82,11114.12,17108.7,0.0,<0.001
+Diabetes,Hypertension,28222.82,22528.27,5694.55,0.0,<0.001
+Flu,Hypertension,11114.12,22528.27,-11414.15,0.0,<0.001
+Asthma,Hypertension,19329.07,22528.27,-3199.2,8.469949998761099e-156,<0.001

@@ -1,0 +1,4 @@
+Economic_Status,Patient_Volume,Avg_Treatment_Cost,Median_Treatment_Cost,Recovery_Rate,Mortality_Rate,Under_Treatment_Rate,Insurance_Coverage_Rate,Avg_Doctor_Availability,Avg_Cleanliness_Score,Avg_Operational_Access_Index
+High,4887,26633.76,25337.97,82.2,5.28,12.52,33.39,5.45,2.73,0.49
+Low,9444,22100.16,20968.94,81.61,5.27,13.12,32.56,5.78,2.8,0.51
+Middle,9669,26632.98,25327.47,83.68,4.28,12.04,33.94,5.58,2.78,0.5

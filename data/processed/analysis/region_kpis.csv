@@ -1,0 +1,5 @@
+Region,Patient_Volume,Avg_Treatment_Cost,Median_Treatment_Cost,Avg_Doctor_Experience,Avg_Doctor_Availability,Avg_Cleanliness_Score,Insurance_Coverage_Rate,Recovery_Rate,Mortality_Rate,Under_Treatment_Rate
+North,9600,24800.05,23426.72,19.01,5.76,2.82,33.47,82.06,4.66,13.28
+West,4869,25098.05,23560.2,19.05,5.53,2.76,34.44,81.82,5.48,12.69
+East,4809,25098.38,23569.09,18.41,5.63,2.76,31.0,84.09,5.05,10.85
+South,4722,24440.15,23035.35,19.14,5.51,2.74,34.05,82.78,4.51,12.71

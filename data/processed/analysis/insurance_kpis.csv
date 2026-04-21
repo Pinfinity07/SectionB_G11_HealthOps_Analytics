@@ -1,0 +1,3 @@
+Insurance,Patient_Volume,Avg_Treatment_Cost,Median_Treatment_Cost,Avg_Doctor_Experience,Avg_Doctor_Availability,Avg_Cleanliness_Score,Insurance_Coverage_Rate,Recovery_Rate,Mortality_Rate,Under_Treatment_Rate
+No,16011,24800.53,23270.28,19.05,5.61,2.77,0.0,82.74,4.8,12.46
+Yes,7989,24947.56,23664.63,18.66,5.68,2.79,100.0,82.2,5.03,12.77

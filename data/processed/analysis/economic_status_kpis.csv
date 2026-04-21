@@ -1,0 +1,4 @@
+Economic_Status,Patient_Volume,Avg_Treatment_Cost,Median_Treatment_Cost,Avg_Doctor_Experience,Avg_Doctor_Availability,Avg_Cleanliness_Score,Insurance_Coverage_Rate,Recovery_Rate,Mortality_Rate,Under_Treatment_Rate
+Middle,9669,26632.98,25327.47,18.84,5.58,2.78,33.94,83.68,4.28,12.04
+Low,9444,22100.16,20968.94,18.95,5.78,2.8,32.56,81.61,5.27,13.12
+High,4887,26633.76,25337.97,19.05,5.45,2.73,33.39,82.2,5.28,12.52

@@ -1,0 +1,6 @@
+theme,evidence,decision_use
+Cost variation by hospital,"Sunrise has the highest average treatment cost (28503.81), while Medilife is lowest (21926.01).","Investigate whether the cost gap is justified by case mix, private/government type, or process inefficiency."
+Diagnosis-level cost burden,"Covid is the highest-cost diagnosis with average cost 40841.61, above the overall average 24849.47.",Prioritise cost-control protocols for high-cost diagnosis categories.
+Recovery performance,Covid has the lowest recovery rate (79.49%) compared with overall recovery 82.56%.,Review treatment pathways and follow-up capacity for lower-recovery diagnosis groups.
+Treatment backlog,Flu has the highest under-treatment rate (14.44%).,"Use staffing, bed allocation, or triage changes to reduce active treatment backlog."
+Outcome baseline,"Overall mortality is 4.88% across 24,000 records.","Use mortality as a monitored risk KPI, segmented by diagnosis, age group, and hospital."

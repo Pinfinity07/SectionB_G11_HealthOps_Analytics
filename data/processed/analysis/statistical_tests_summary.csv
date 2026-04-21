@@ -1,0 +1,17 @@
+test_area,factor,groups,test_used,statistic,p_value,effect_size,interpretation,secondary_result,p_value_label,significant_at_0_05
+Treatment_Cost,Diagnosis,"Asthma, Covid, Diabetes, Flu, Hypertension",ANOVA and Kruskal-Wallis,18356.4312,0.0,0.7287,Treatment cost differs significantly by Diagnosis,"ANOVA F=16111.8656, p=0",<0.001,True
+Treatment_Cost,Doctor_Availability,numeric correlation,Spearman correlation,0.1696,2.001963179997813e-154,0.1696,Doctor_Availability has a statistically significant monotonic relationship with Treatment_Cost,rho reported as statistic,<0.001,True
+Treatment_Cost,Age,numeric correlation,Spearman correlation,0.1588,2.5977127785107214e-135,0.1588,Age has a statistically significant monotonic relationship with Treatment_Cost,rho reported as statistic,<0.001,True
+Treatment_Cost,Cleanliness_Score,numeric correlation,Spearman correlation,0.1584,1.4693138669359616e-134,0.1584,Cleanliness_Score has a statistically significant monotonic relationship with Treatment_Cost,rho reported as statistic,<0.001,True
+Outcome,Diagnosis,"Asthma, Covid, Diabetes, Flu, Hypertension",Chi-square independence,723.6418,5.809105531259777e-151,0.1228,Outcome is associated with Diagnosis,dof=8,<0.001,True
+Outcome,Age_Group,"Middle-Aged, Senior, Young Adult",Chi-square independence,718.1793,4.034129556854982e-154,0.1223,Outcome is associated with Age_Group,dof=4,<0.001,True
+Treatment_Cost,Hospital,"Carepoint, Medilife, Sunrise",ANOVA and Kruskal-Wallis,1048.2809,2.3371815117110472e-228,0.0532,Treatment cost differs significantly by Hospital,"ANOVA F=674.2512, p=1.283e-285",<0.001,True
+Treatment_Cost,Economic_Status,"High, Low, Middle",ANOVA and Kruskal-Wallis,735.8923,1.595923302747017e-160,0.0349,Treatment cost differs significantly by Economic_Status,"ANOVA F=433.7689, p=8.747e-186",<0.001,True
+Treatment_Cost,Hospital_Type,"Government, Private",ANOVA and Kruskal-Wallis,636.1345,2.315473372555427e-140,0.0304,Treatment cost differs significantly by Hospital_Type,"ANOVA F=752.4826, p=3.8e-163",<0.001,True
+Outcome,Region,"East, North, South, West",Chi-square independence,23.5002,0.0006451479603239573,0.0221,Outcome is associated with Region,dof=6,<0.001,True
+Treatment_Cost,Age_Group,"Middle-Aged, Senior, Young Adult",ANOVA and Kruskal-Wallis,505.1532,2.02940557422019e-110,0.0216,Treatment cost differs significantly by Age_Group,"ANOVA F=265.3455, p=1.042e-114",<0.001,True
+Outcome,Economic_Status,"High, Low, Middle",Chi-square independence,18.727,0.0008891720995795532,0.0198,Outcome is associated with Economic_Status,dof=4,<0.001,True
+Treatment_Cost,Doctor_Experience_Years,numeric correlation,Spearman correlation,0.0159,0.013676006188490212,0.0159,Doctor_Experience_Years has a statistically significant monotonic relationship with Treatment_Cost,rho reported as statistic,0.0137,True
+Outcome,Insurance,"No, Yes",Chi-square independence,1.1957,0.5499829143524246,0.0071,Outcome is not significantly associated with Insurance,dof=2,0.5500,False
+Treatment_Cost,Insurance,"No, Yes",ANOVA and Kruskal-Wallis,1.1747,0.27843121546531885,0.0,No statistically significant treatment-cost difference by Insurance,"ANOVA F=0.8196, p=0.3653",0.2784,False
+Outcome,Hospital,"Carepoint, Medilife, Sunrise",Chi-square independence,0.0,1.0,0.0,Outcome is not significantly associated with Hospital,dof=4,1.0000,False

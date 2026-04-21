@@ -1,0 +1,6 @@
+,Age,Treatment_Cost,Doctor_Experience_Years,Doctor_Availability,Cleanliness_Score
+Age,1.0,0.159,0.011,-0.006,-0.031
+Treatment_Cost,0.159,1.0,0.016,0.17,0.158
+Doctor_Experience_Years,0.011,0.016,1.0,0.009,0.02
+Doctor_Availability,-0.006,0.17,0.009,1.0,0.651
+Cleanliness_Score,-0.031,0.158,0.02,0.651,1.0

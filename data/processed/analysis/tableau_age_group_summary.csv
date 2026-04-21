@@ -1,0 +1,4 @@
+Age_Group,Patient_Volume,Avg_Treatment_Cost,Median_Treatment_Cost,Recovery_Rate,Mortality_Rate,Under_Treatment_Rate,Insurance_Coverage_Rate,Avg_Doctor_Availability,Avg_Cleanliness_Score,Avg_Operational_Access_Index
+Middle-Aged,10164,24637.64,23312.38,83.0,2.98,14.02,33.8,5.68,2.8,0.5
+Senior,7968,26965.39,25337.97,80.23,9.9,9.86,31.89,5.58,2.72,0.5
+Young Adult,5868,22343.24,21007.4,84.97,1.33,13.7,34.3,5.63,2.81,0.5
