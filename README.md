@@ -1,17 +1,17 @@
-# 🏥 HealthOps Analytics: Hospital Operations & Patient Outcome Optimization
+# HealthOps Analytics: Hospital Operations & Patient Outcome Optimization
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
 [![Tableau](https://img.shields.io/badge/Visualization-Tableau-orange.svg)](https://www.tableau.com/)
 [![Status](https://img.shields.io/badge/Status-Complete-green.svg)](https://github.com/Pinfinity07/SectionB_G11_HealthOps_Analytics)
 
-## 📋 Project Overview
+## Project Overview
 This project provides a comprehensive data-driven analysis of hospital operations, patient outcomes, and treatment costs for **Section B — Group 11**. By leveraging a dataset of 24,000 records across multiple hospital facilities, we aim to identify operational inefficiencies, cost drivers, and key factors affecting patient recovery.
 
 The goal is to move beyond descriptive statistics into **decision-ready intelligence**, providing the Strategy Lead and Hospital Administrators with evidence-backed recommendations to optimize resource allocation and care quality.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 - **`notebooks/`**: Modularized pipeline for ETL, EDA, Statistical Analysis, and Tableau Load Prep.
 - **`data/processed/`**: Cleaned and enriched analytical datasets.
 - **`docs/`**: Project documentation, data dictionary, and handoff notes.
@@ -19,7 +19,7 @@ The goal is to move beyond descriptive statistics into **decision-ready intellig
 
 ---
 
-## 📊 Dataset Profile
+## Dataset Profile
 The analysis is based on three cleaned hospital datasets, synthesized into a unified analytical fact table.
 
 - **Sample Size**: 24,000 Patient Records
@@ -31,7 +31,7 @@ For a full breakdown of variables, see the [Data Dictionary](docs/data_dictionar
 
 ---
 
-## 👥 The Team (Section B - Group 11)
+## The Team (Section B - Group 11)
 
 | Role | Primary Responsibility | Owner Name |
 |:---|:---|:---|
@@ -45,7 +45,7 @@ For a full breakdown of variables, see the [Data Dictionary](docs/data_dictionar
 
 ---
 
-## 🚀 Key Insights Summary
+## Key Insights Summary
 1. **Diagnosis as a Cost Driver**: Diagnosis accounts for the largest variance in treatment cost (p < 0.001), with Covid-19 identified as the most resource-intensive.
 2. **Hospital Efficiency**: Significant cost variance detected between facilities (e.g., Sunrise Hosp. vs Carepoint), warranting a review of operational overhead.
 3. **Outcome Predictors**: Patient age and diagnosis are statistically associated with recovery rates, while insurance status showed no significant correlation with treatment outcomes in this population.
@@ -53,7 +53,6 @@ For a full breakdown of variables, see the [Data Dictionary](docs/data_dictionar
 
 ---
 
-## 🛠️ Usage
+## Usage
 1. Follow the `notebooks/` in numerical order (01-05) to reproduce the analytical pipeline.
 2. The final Tableau-optimized dataset is located at `data/processed/hospital_tableau_ready.csv`.
-3. View the [Analysis Handoff Notes](docs/analysis_lead_handoff.md) for detailed statistical evidence.
