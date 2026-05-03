@@ -3,5 +3,5 @@
 - **Harshita Joshi:** https://dva-portfolio-harshitajoshi.netlify.app/  
 - **Shrihari K N:**  https://shriharikn17.github.io/Portfolio/
 - **Pragya Kashyap:**  https://pragya238.github.io/DVA-portfolio/
-- **Arjun Singh:** 
+- **Arjun Singh:** https://arjun421.github.io/DVA_Portfolio/
 - **Udit Jain:** https://shimmering-rugelach-840090.netlify.app/
